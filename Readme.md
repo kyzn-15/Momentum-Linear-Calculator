@@ -102,4 +102,3 @@ Terima kasih telah menggunakan aplikasi.
 
 ---
 #### Kevin Wilbert Johan 11 IPA 1
-# Momentum-Linear-Calculator
